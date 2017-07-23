@@ -3,4 +3,4 @@
 Just some random C programs to work on using Gradle build scripts.<br>
 The C programs are trivial....
 
-Using Gradle 4.0.1 (23 July 2017)
+Using Gradle 4.0.1 (as of 23 July 2017)
