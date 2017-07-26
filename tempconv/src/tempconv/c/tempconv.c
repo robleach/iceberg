@@ -4,7 +4,7 @@
 #define UPPER 300
 #define STEP 20
 
-int main(int argc, char** argv) {
+int main(int argc, char *argv[]) {
   int fahr;
 
   for (fahr = LOWER; fahr <= UPPER; fahr = fahr + STEP)

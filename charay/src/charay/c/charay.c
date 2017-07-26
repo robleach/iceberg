@@ -5,7 +5,7 @@
 int getlin(char line[], int maxline);
 void copy(char to[], char from[]);
 
-int main(int argc, char** argv) {
+int main(int argc, char *argv[]) {
   int len;
   int max;
   char line[MAXLINE];

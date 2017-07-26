@@ -3,7 +3,7 @@
 #define IN 1
 #define OUT 0
 
-int main(int argc, char** argv) {
+int main(int argc, char *argv[]) {
   int c, nl, nw, nc, state;
 
   state = OUT;

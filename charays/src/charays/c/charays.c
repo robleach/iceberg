@@ -9,7 +9,7 @@ char longest[MAXLINE];
 int getlin(void);
 void copy(void);
 
-int main(int argc, char** argv) {
+int main(int argc, char *argv[]) {
   int len;
   extern int max;
   extern char longest[];
